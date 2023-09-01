@@ -1,0 +1,16 @@
+
+Water               ~
+
+Forest              ▒
+
+Land                ░
+
+Mountains           ▓
+
+Roads               ╔═╦╗╠║╚╬╣╝╩
+
+Capital             ©
+
+City                ¤
+
+Town                °
